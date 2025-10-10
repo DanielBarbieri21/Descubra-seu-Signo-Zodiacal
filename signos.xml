@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Corajoso, entusiasta e cheio de energia. Áries é o primeiro signo do zodíaco, representando o início da primavera e o renascimento. Pessoas deste signo são líderes naturais, impulsivas e sempre prontas para novos desafios.</descricao>
+        <elemento>Fogo</elemento>
+        <qualidade>Cardinal</qualidade>
+        <planeta>Marte</planeta>
+        <cor>Vermelho</cor>
+        <pedra>Rubi</pedra>
+        <caracteristicas>Liderança, Coragem, Impulsividade, Energia</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Paciente, persistente e amante da estabilidade. Touro é um signo de terra que valoriza a segurança material e emocional. Pessoas deste signo são práticas, determinadas e apreciam os prazeres da vida.</descricao>
+        <elemento>Terra</elemento>
+        <qualidade>Fixo</qualidade>
+        <planeta>Vênus</planeta>
+        <cor>Verde</cor>
+        <pedra>Esmeralda</pedra>
+        <caracteristicas>Estabilidade, Paciência, Determinação, Sensualidade</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Comunicativo, curioso e adaptável. Gêmeos é um signo de ar que representa a dualidade e a comunicação. Pessoas deste signo são versáteis, inteligentes e sempre em busca de novos conhecimentos.</descricao>
+        <elemento>Ar</elemento>
+        <qualidade>Mutável</qualidade>
+        <planeta>Mercúrio</planeta>
+        <cor>Amarelo</cor>
+        <pedra>Ágata</pedra>
+        <caracteristicas>Comunicação, Versatilidade, Curiosidade, Inteligência</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Emotivo, protetor e sensível. Câncer é um signo de água que representa a família e o lar. Pessoas deste signo são intuitivas, carinhosas e têm uma forte conexão com suas raízes.</descricao>
+        <elemento>Água</elemento>
+        <qualidade>Cardinal</qualidade>
+        <planeta>Lua</planeta>
+        <cor>Prata</cor>
+        <pedra>Pérola</pedra>
+        <caracteristicas>Intuição, Proteção, Sensibilidade, Família</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Carismático, confiante e generoso. Leão é um signo de fogo que representa a criatividade e a expressão pessoal. Pessoas deste signo são líderes naturais, orgulhosas e adoram ser o centro das atenções.</descricao>
+        <elemento>Fogo</elemento>
+        <qualidade>Fixo</qualidade>
+        <planeta>Sol</planeta>
+        <cor>Dourado</cor>
+        <pedra>Diamante</pedra>
+        <caracteristicas>Liderança, Criatividade, Orgulho, Generosidade</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Detalhista, organizado e analítico. Virgem é um signo de terra que representa o trabalho e o serviço aos outros. Pessoas deste signo são perfeccionistas, práticas e sempre buscam melhorar tudo ao seu redor.</descricao>
+        <elemento>Terra</elemento>
+        <qualidade>Mutável</qualidade>
+        <planeta>Mercúrio</planeta>
+        <cor>Marrom</cor>
+        <pedra>Safira</pedra>
+        <caracteristicas>Perfeccionismo, Organização, Análise, Serviço</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Diplomático, sociável e busca harmonia. Libra é um signo de ar que representa o equilíbrio e a justiça. Pessoas deste signo são charmosas, justas e sempre procuram encontrar o meio termo em todas as situações.</descricao>
+        <elemento>Ar</elemento>
+        <qualidade>Cardinal</qualidade>
+        <planeta>Vênus</planeta>
+        <cor>Rosa</cor>
+        <pedra>Opala</pedra>
+        <caracteristicas>Diplomacia, Equilíbrio, Justiça, Charme</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Intenso, determinado e misterioso. Escorpião é um signo de água que representa a transformação e o poder. Pessoas deste signo são passionais, intuitivas e têm uma capacidade única de se regenerar e renascer.</descricao>
+        <elemento>Água</elemento>
+        <qualidade>Fixo</qualidade>
+        <planeta>Plutão</planeta>
+        <cor>Vermelho Escuro</cor>
+        <pedra>Topázio</pedra>
+        <caracteristicas>Intensidade, Transformação, Intuição, Poder</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Espírito livre, otimista e aventureiro. Sagitário é um signo de fogo que representa a expansão e a busca pela verdade. Pessoas deste signo são filosóficas, aventureiras e sempre em busca de novos horizontes.</descricao>
+        <elemento>Fogo</elemento>
+        <qualidade>Mutável</qualidade>
+        <planeta>Júpiter</planeta>
+        <cor>Roxo</cor>
+        <pedra>Turquesa</pedra>
+        <caracteristicas>Otimismo, Aventura, Filosofia, Expansão</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Responsável, disciplinado e ambicioso. Capricórnio é um signo de terra que representa a autoridade e a estrutura. Pessoas deste signo são trabalhadoras, sábias e sempre perseguem seus objetivos com determinação.</descricao>
+        <elemento>Terra</elemento>
+        <qualidade>Cardinal</qualidade>
+        <planeta>Saturno</planeta>
+        <cor>Preto</cor>
+        <pedra>Granada</pedra>
+        <caracteristicas>Responsabilidade, Disciplina, Ambição, Sabedoria</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Inovador, independente e idealista. Aquário é um signo de ar que representa a humanidade e o progresso. Pessoas deste signo são originais, humanitárias e sempre pensam no bem coletivo.</descricao>
+        <elemento>Ar</elemento>
+        <qualidade>Fixo</qualidade>
+        <planeta>Urano</planeta>
+        <cor>Azul</cor>
+        <pedra>Ametista</pedra>
+        <caracteristicas>Originalidade, Independência, Humanitarismo, Progresso</caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Sonhador, empático e criativo. Peixes é um signo de água que representa a espiritualidade e a compaixão. Pessoas deste signo são intuitivas, artísticas e têm uma conexão profunda com o mundo espiritual.</descricao>
+        <elemento>Água</elemento>
+        <qualidade>Mutável</qualidade>
+        <planeta>Netuno</planeta>
+        <cor>Verde Azulado</cor>
+        <pedra>Água Marinha</pedra>
+        <caracteristicas>Intuição, Criatividade, Espiritualidade, Compaixão</caracteristicas>
+    </signo>
+</signos>
