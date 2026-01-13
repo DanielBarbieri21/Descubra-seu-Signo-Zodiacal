@@ -144,7 +144,18 @@ O projeto é totalmente responsivo e funciona em:
 
 Este projeto é de uso educacional e pode ser modificado livremente.
 
-## 👨‍💻 Desenvolvido por Adailton Daniel Oliveira Barbieri
+---
+
+🛠️ **Software desenvolvido por Daniel Barbieri**  
+Engenheiro de Software | Full Stack Developer  
+
+Código construído com foco em eficiência, organização, escalabilidade e boas práticas de desenvolvimento.
+
+🌐 GitHub: https://github.com/DanielBarbieri21  
+💼 LinkedIn: https://www.linkedin.com/in/daniel-barbieri-4990462a/
+
+---
+
 
 Projeto desenvolvido como exercício prático de Programação Web, demonstrando o uso de PHP, XML, HTML, CSS e JavaScript para criar uma aplicação web moderna e interativa.
 
